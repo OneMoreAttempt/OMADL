@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "nile64",
-        "link": "https://www.youtube.com/@nile64"
+        "name": "Bennoct",
+        "link": "https://www.youtube.com/@Bennoct"
     },
     {
         "role": "admin",
@@ -11,17 +11,17 @@
     },
     {
         "role": "helper",
-        "name": "check the server idk",
-        "link": "https://discord.gg/zUdf7MkYn9"
-    },
-    {
-        "role": "trial",
-        "name": "check the server idk",
-        "link": "https://discord.gg/zUdf7MkYn9"
+        "name": "cataclysm guy",
+        "link": "https://www.youtube.com/@cataclysmguy"
     },
     {
         "role": "dev",
-        "name": "nile64",
+        "name": "Gp0",
         "link": "https://www.youtube.com/@nile64"
+    },
+    {
+        "role": "dev",
+        "name": "cataclysm guy",
+        "link": "https://www.youtube.com/@cataclysmguy"
     }
 ]
